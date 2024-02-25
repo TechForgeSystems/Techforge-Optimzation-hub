@@ -13,10 +13,10 @@ The author of this file cannot be held responsible or liable for any damages tha
 1. Go to [Releases](https://github.com/TechForgeSystems/Techforge-Optimzation-hub)
 2. Download **"TechForgePc_Optimizer.bat"**
 3. Run "TechForgePcOptimizer.bat" as Administrator
-4. Press the Number # for the Optimization you want, and click Enter
+4. Watch the [Tutorial](https://github.com/TechForgeSystems/Techforge-Optimzation-hub/blob/main/Turtorial.md)
 
 # 🤝 Community
-Feel free to join [Techforge Optimization Hub](https://discord.gg/QpN9UbrVcx). The server was designed for those who are interested in tweaking, or are already tweakers. Here you can learn how to optimize your PC in many ways. Everything in the server is **free**. Nothing is paid or gatekeeped.
+Feel free to join [Techforge Optimization Hub](https://discord.gg/QpN9UbrVcx). The server was designed for those who are interested in tweaking Everything in the server is **free**. Nothing is paid or gatekeeped.
 
 # 📜 License
 Techforge Performance Hub is Licensed under the [MIT License](https://opensource.org/licenses/MIT). For more information, visit [LICENSE](https://github.com/TechForgeSystems/Techforge-Optimzation-hub/blob/main/LICENSE)
