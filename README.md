@@ -10,7 +10,7 @@ The author of this file cannot be held responsible or liable for any damages tha
 - Administrator Permissions
 
 # ❓ How to Use?
-1. Go to [Releases](https://github.com/TechForgeSystems/Techforge-Optimzation-hub)
+1. Go to [Releases](https://github.com/TechForgeSystems/Techforge-Optimzation-hub/releases/tag/Tweaks)
 2. Download **"TechForgePc_Optimizer.bat"**
 3. Run "TechForgePcOptimizer.bat" as Administrator
 4. Watch the [Tutorial](https://github.com/TechForgeSystems/Techforge-Optimzation-hub/blob/main/Turtorial.md)
