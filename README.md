@@ -11,8 +11,8 @@ The author of this file cannot be held responsible or liable for any damages tha
 
 # ❓ How to Use?
 1. Go to [Releases](https://github.com/TechForgeSystems/Techforge-Optimzation-hub/releases)
-2. Download **"TechForgePc_Optimizer.bat"**
-3. Run "TechForgePcOptimizer.bat" as Administrator
+2. Download **"TechForgePcOptimizerV3"**
+3. Drag the TechforgePcOptimizerv3.ps1 into open Pc optimizer
 4. Watch the [Tutorial](https://github.com/TechForgeSystems/Techforge-Optimzation-hub/blob/main/Turtorial.md)
 
 # 🤝 Community
