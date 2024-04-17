@@ -20,4 +20,4 @@ The author of this file cannot be held responsible or liable for any damages tha
 Feel free to join [Techforge Optimization Hub](https://discord.gg/QpN9UbrVcx). The server was designed for those who are interested in tweaking Everything in the server is **free**. Nothing is paid or gatekeeped.
 
 # 📜 License
-Techforge Performance Hub is Licensed under the [MIT License](https://opensource.org/licenses/MIT). For more information, visit [LICENSE](https://github.com/TechForgeSystems/Techforge-Optimzation-hub/blob/main/LICENSE)
+Techforge Optimization Hub is Licensed under the [MIT License](https://opensource.org/licenses/MIT). For more information, visit [LICENSE](https://github.com/TechForgeSystems/Techforge-Optimzation-hub/blob/main/LICENSE)
