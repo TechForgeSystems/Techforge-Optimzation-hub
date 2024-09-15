@@ -14,7 +14,6 @@ The author of this file cannot be held responsible or liable for any damages tha
 2. Download **"TechForgePcOptimizerV3"**
 3. Disable Your Anrivirus
 4. Drag the TechforgePcOptimizerv3.ps1 into open Pc optimizer
-5. Watch the [Tutorial](https://github.com/TechForgeSystems/Techforge-Optimzation-hub/blob/main/Turtorial.md)
 
 # 🤝 Community
 Feel free to join [Techforge Optimization Hub](https://discord.gg/QpN9UbrVcx). The server was designed for those who are interested in tweaking Everything in the server is **free**. Nothing is paid or gatekeeped.
